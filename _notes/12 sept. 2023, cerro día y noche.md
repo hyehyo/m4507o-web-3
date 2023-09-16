@@ -18,17 +18,14 @@ title: 12 sept. 2023, cerro día y noche
 ![](DSCN9886.jpg)
 ![](DSCN9936.jpg)
 ![](DSCN9949%201.jpg)
-
 ![](DSCN9922%201.jpg)
 ![](DSCN9929%201.jpg)
 ![](DSCN9933%201.jpg)
 ![](DSCN9935%201.jpg)
 ![](DSCN9936%202.jpg)
-
 ![](DSCN9937%201.jpg)
 ![](DSCN9938%201.jpg)
 ![](DSCN9941%201.jpg)
-
 ![](DSCN9952%201.jpg)
 ![](DSCN9953%201.jpg)
 ![](DSCN9955%201.jpg)
