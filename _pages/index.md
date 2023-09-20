@@ -16,7 +16,7 @@ permalink: /
   {% endfor %}
 </ul>
 
-**[[tus señas]]**
+**[[música]]**
 
 **[[fotos]]**
 
