@@ -16,13 +16,10 @@ permalink: /
   {% endfor %}
 </ul>
 
-<strong>música</strong>
+**[[tus señas]]**
 
-[[tus señas]]
+**[[fotos]]**
 
-<strong>fotos</strong>
-
-[[fotos sept. 2023]]
 
 <style>
   .wrapper {

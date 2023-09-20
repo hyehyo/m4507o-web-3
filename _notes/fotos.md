@@ -1,5 +1,5 @@
 ---
-title: fotos sept. 2023
+title: fotos
 ---
 
 - [[15, 16 sept. 2023, cata]]
