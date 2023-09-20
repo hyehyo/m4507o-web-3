@@ -16,6 +16,8 @@ permalink: /
   {% endfor %}
 </ul>
 
+[fotos sept. 2023](fotos%20sept.%202023.md)
+
 <style>
   .wrapper {
     max-width: 46em;
