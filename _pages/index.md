@@ -16,7 +16,13 @@ permalink: /
   {% endfor %}
 </ul>
 
-[fotos sept. 2023](fotos%20sept.%202023.md)
+<strong>música</strong>
+
+[[tus señas]]
+
+<strong>fotos</strong>
+
+[[fotos sept. 2023]]
 
 <style>
   .wrapper {
