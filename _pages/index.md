@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-<strong>recientes</strong>
+<!-- <strong>recientes</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -15,7 +15,7 @@ permalink: /
     </li>
   {% endfor %}
 </ul>
-
+ -->
 **[[música]]**
 
 **[[fotos]]**
