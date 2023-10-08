@@ -4,7 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-
 <!-- <strong>recientes</strong>
 
 <ul>
@@ -18,6 +17,9 @@ permalink: /
  -->
 - [[música]]
 - [[fotos]]
+
+![](DSCN9863%201.jpg)
+
 
 
 <style>
