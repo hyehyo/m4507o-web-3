@@ -39,12 +39,7 @@ title: 8 oct. 2023, caminata
 ![](DSCN9988.jpg)
 ![](DSCN9991.jpg)
 ![](DSCN9992.jpg)
-
-
-
-
-
-
+![](DSCN9981.mp4)
 
 
 
