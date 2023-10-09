@@ -1,6 +1,9 @@
 ---
 title: fotos
 ---
+**oct. 2023**
+
+- [[8 oct. 2023, caminata]]
 
 **sept. 2023**
 
