@@ -3,6 +3,7 @@ title: fotos
 ---
 **oct. 2023**
 
+- [[12 oct. 2023, porter]]
 - [[8 oct. 2023, caminata]]
 
 **sept. 2023**
