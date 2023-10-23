@@ -1,6 +1,9 @@
 ---
 title: fotos
 ---
+
+[[黒 and 白]]
+
 **oct. 2023**
 
 - [[12 oct. 2023, porter]]
