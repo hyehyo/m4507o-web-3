@@ -16,7 +16,9 @@ body {
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
-  max-width: 63em;
+  // max-width: 63em;
+  max-width: 45em;
+
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -40,7 +42,7 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
-  max-height: 75vh;
+  // max-height: 75vh;
 }
 
 blockquote {
@@ -115,8 +117,8 @@ nav {
     "side";
 
   @media (min-width: 700px) {
-    grid-template-columns: 3fr 1fr;
-    grid-template-areas: "content side";
+/*     grid-template-columns: 3fr 1fr;
+    grid-template-areas: "content side"; */
   }
 }
 
