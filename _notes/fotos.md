@@ -3,6 +3,7 @@ title: fotos
 ---
 
 [[黒 and 白]]  
+[[video test]]
 
 **oct. 2023**
 
