@@ -6,6 +6,7 @@ title: fotos
 
 **oct. 2023**
 
+- [[21 oct. 2023, kenoide + me]]
 - [[12 oct. 2023, porter]]
 - [[8 oct. 2023, caminata]]
 
