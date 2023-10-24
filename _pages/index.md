@@ -15,11 +15,8 @@ permalink: /
   {% endfor %}
 </ul>
  -->
-- [[música]]
-- [[fotos]]
-
-![](DSCN9863%201.jpg)
-
+[[música]]  
+[[fotos]]  
 
 
 <style>
