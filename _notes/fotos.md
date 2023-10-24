@@ -3,6 +3,7 @@ title: fotos
 ---
 
 [[黒 and 白]]
+[[normal y sueño]]
 
 **oct. 2023**
 
