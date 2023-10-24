@@ -16,7 +16,7 @@ permalink: /
 </ul>
  -->
 [[música]]  
-[[fotos]]  
+[[blog]]  
 
 
 <style>

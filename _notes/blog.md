@@ -1,5 +1,5 @@
 ---
-title: fotos
+title: blog
 ---
 
 [[黒 and 白]]  
