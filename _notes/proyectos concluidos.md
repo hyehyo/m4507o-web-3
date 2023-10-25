@@ -1,5 +1,5 @@
 ---
-title: trabajos
+title: proyectos concluidos
 ---
 
 ### música
