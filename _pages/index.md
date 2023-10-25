@@ -18,6 +18,8 @@ permalink: /
 [[música]]  
 [[blog]]  
 
+soy Matias Soto, esta es mi pagina web donde comparto lo que hago.
+me puedes escribir lo que quieras a matiasandres.soto@gmail.com.
 
 <style>
   .wrapper {
