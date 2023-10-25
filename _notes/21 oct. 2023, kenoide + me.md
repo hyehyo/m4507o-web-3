@@ -1,5 +1,5 @@
 ---
-title: 8 oct. 2023, kenoide + me
+title: 21 oct. 2023, kenoide + me
 ---
 
 ## DSLR Nikon
