@@ -18,9 +18,12 @@ permalink: /
 [[música]]  
 [[blog]]  
 
+
 ***about***  
 soy Matias Soto, esta es mi pagina web donde comparto lo que hago.  
 me puedes escribir lo que quieras por [correo](mailto:matiasandres.soto@gmail.com) o [por acá](https://www.instagram.com/m4507o/) y [acá](https://www.instagram.com/armisticio/).
+
+![](DSCN9811.jpg)
 
 <style>
   .wrapper {
