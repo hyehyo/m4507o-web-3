@@ -15,7 +15,7 @@ permalink: /
   {% endfor %}
 </ul>
  -->
-[[música]]  
+[[proyectos]]  
 [[blog]]  
 
 
