@@ -3,11 +3,12 @@ title: blog
 ---
 
 [[黒 and 白]]  
-[[video test]]
+[[video test]] 🎥
 
 **oct. 2023**
 
 - [[21 oct. 2023, kenoide + me]]
+- [[16 oct. 2023, graffiti]] 🎥
 - [[12 oct. 2023, porter]]
 - [[8 oct. 2023, caminata]]
 

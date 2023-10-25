@@ -1,5 +1,5 @@
 ---
-title: 16 oct. 2023 - graffiti
+title: 16 oct. 2023, graffiti
 ---
 
 ## Sony Handycam
