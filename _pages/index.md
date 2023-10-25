@@ -23,7 +23,8 @@ permalink: /
 soy Matias Soto, esta es mi página web donde comparto lo que hago.  
 me puedes escribir lo que quieras por [correo](mailto:matiasandres.soto@gmail.com) o [por acá](https://www.instagram.com/m4507o/) y [acá](https://www.instagram.com/armisticio/).
 
-![](DSCN9811%201.jpg)
+![](DSCN9811%202.jpg)
+
 <style>
   .wrapper {
     max-width: 46em;
