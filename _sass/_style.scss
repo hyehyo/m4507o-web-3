@@ -110,6 +110,14 @@ video {
   line-height: 0;
 }
 
+.videodiv {
+  max-width: 100%;
+  line-height: 0;
+  display: inline-block;
+  margin:0;
+  padding:0;
+}
+
 nav {
   margin: 1em 0 3em;
 }
