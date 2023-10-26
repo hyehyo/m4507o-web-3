@@ -105,15 +105,15 @@ a {
   color: black !important;
 }
 
-video {
+/* video {
   max-width: 100%;
   line-height: 0;
-}
+} */
 
 .videodiv {
+  display: inline-block;
   max-width: 100%;
   line-height: 0;
-  display: inline-block;
   margin:0;
   padding:0;
 }
