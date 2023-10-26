@@ -8,8 +8,7 @@ title: 16 oct. 2023, graffiti
 <video src="M2U00019.mp4#t=0.001" playsinline controls title="Title"></video>
 </div>
 
-## Pocket Nikon  
-
+## Pocket Nikon
 ![](DSCN5506.jpg)
 ![](DSCN5508.jpg)
 ![](DSCN5517.jpg)
