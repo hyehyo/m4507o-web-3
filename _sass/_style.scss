@@ -106,10 +106,11 @@ a {
 }
 
 video {
+  height: auto;
   max-width: 100%;
   // line-height: 0;
   display: block;
-  border: 1px;
+  font-size: 0;
 }
 
 /* .videodiv {
