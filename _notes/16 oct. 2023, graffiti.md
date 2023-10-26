@@ -1,8 +1,7 @@
 ---
 title: 16 oct. 2023, graffiti
 ---
-## Handycam
-‎ ‎‎
+
 <video src="M2U00008.mp4#t=0.001" playsinline controls title="Title"></video>
 <video src="M2U00009.mp4#t=0.001" playsinline controls title="Title"></video>
 <video src="M2U00019.mp4#t=0.001" playsinline controls title="Title"></video>
