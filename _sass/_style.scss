@@ -105,8 +105,8 @@ a {
 }
 
 video {
-  // height: 400px;
-  max-width: 100%;
+  min-height: 100%;
+  min-width: 100%;
   display: block;
   margin: 0 auto;
   // line-height: 0;
