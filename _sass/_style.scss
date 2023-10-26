@@ -17,7 +17,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   // max-width: 63em;
-  max-width: 45em;
+  max-width: 46em;
 
 
   // @media (min-width: 820px) {
@@ -106,8 +106,8 @@ a {
 }
 
 video {
-  height: 100%;
-  // max-width: 100%;
+  height: auto;
+  max-width: 100%;
   // line-height: 0;
   display: block;
   font-size: 0;
