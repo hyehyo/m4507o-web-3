@@ -15,8 +15,9 @@ permalink: /
   {% endfor %}
 </ul>
  -->
-[[proyectos concluidos]]  
+ 
 [[blog]]  
+[[proyectos]]  
 
 --- 
 
