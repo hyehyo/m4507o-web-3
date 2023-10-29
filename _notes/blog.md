@@ -7,6 +7,7 @@ title: blog
 
 **oct. 2023**
 
+- [[29 oct. 2023]]
 - [[21 oct. 2023, kenoide + me]]
 - [[16 oct. 2023, graffiti]] 🎥
 - [[12 oct. 2023, porter]]
