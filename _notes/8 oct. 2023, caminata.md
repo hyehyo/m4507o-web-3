@@ -1,6 +1,7 @@
 ---
 title: 8 oct. 2023, caminata
 ---
+<video src="DSCN9981.mp4#t=0.001" playsinline controls title="Title"></video>
 
 ## DSLR Nikon
 
@@ -10,9 +11,8 @@ title: 8 oct. 2023, caminata
 ![](DSC_0037.jpg)
 ![](DSC_0063-Edit.jpg)
 ![](DSC_0075.jpg)
-![](DSC_0080.jpg)
+
 ![](DSC_0081.jpg)
-![](DSC_0094.jpg)
 ![](DSC_0095.jpg)
 ![](DSC_0096.jpg)
 ![](DSC_0100.jpg)
@@ -39,7 +39,6 @@ title: 8 oct. 2023, caminata
 ![](DSCN9988.jpg)
 ![](DSCN9991.jpg)
 ![](DSCN9992.jpg)
-![](DSCN9981.mp4)
 
 
 
