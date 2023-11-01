@@ -11,7 +11,7 @@ title: blog
 - [[29 oct. 2023, fruit]]
 - [[21 oct. 2023, kenoide + me]]
 - [[16 oct. 2023, graffiti]] 📹
-- [[12 oct. 2023, porter]]
+- [[12 oct. 2023, porter robinson]]
 - [[8 oct. 2023, caminata]] 📹
 
 **sept. 2023**
