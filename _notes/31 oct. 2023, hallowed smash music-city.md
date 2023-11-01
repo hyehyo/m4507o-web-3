@@ -8,7 +8,6 @@ title: 29 oct. 2023, hallowed smash music-city
 
 ## Pocket Canon
 
-
 ![](IMG_2594.jpg)
 ![](IMG_2596.jpg)
 ![](IMG_2599.jpg)
@@ -31,5 +30,4 @@ title: 29 oct. 2023, hallowed smash music-city
 ![](IMG_2625.jpg)
 ![](IMG_2627.jpg)
 ![](IMG_2628.jpg)
-
 
