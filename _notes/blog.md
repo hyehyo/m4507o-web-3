@@ -7,6 +7,7 @@ title: blog
 
 **oct. 2023**
 
+- [[31 oct. 2023, hallowed smash music-city]]
 - [[29 oct. 2023, fruit]]
 - [[21 oct. 2023, kenoide + me]]
 - [[16 oct. 2023, graffiti]] 🎥
