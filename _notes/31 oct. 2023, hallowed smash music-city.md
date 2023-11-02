@@ -1,5 +1,5 @@
 ---
-title: 29 oct. 2023, hallowed smash music-city
+title: 31 oct. 2023, hallowed smash music-city
 ---
 
 <video src="M2U00233.mp4#t=0.001" playsinline controls title="Title"></video>
