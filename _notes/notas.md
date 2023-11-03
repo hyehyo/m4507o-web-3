@@ -18,6 +18,5 @@ me hace sentir miedo dentro de todo, que las cosas pasan literalmente a mi lado,
 pensar que hay cables de alta tension pasando electricidad desde la calle hasta esas instalaciones arriba de una roca gigante... como este que siempre miro y parece un esqueleto de metal
 
 ![](IMG_2708.jpg)
-![](DSC05314.jpg)
 
 antes de esto iba caminando de camino al cerro y me pararon unos flaites en auto, eran 5 me hablo uno y reaccione de manera genuina, un tanto hostil. fue todo medio extraño pensaron que no era de acá (el que la vende se va cogoteado I guess) pero no quede de perro chico, mostre mis credenciales de renquino a pesar de ser escaneado de pies a cabeza con mis camaras y aire turistico... me di cuenta de que ando hecho un gil en lo que respecta a apariencia.
