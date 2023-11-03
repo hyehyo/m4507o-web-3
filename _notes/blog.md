@@ -2,7 +2,7 @@
 title: blog
 ---
 
-[[matias soto]]
+[[matias soto]]  
 [[黒 and 白]]  
 [[video test]] 📹
 
