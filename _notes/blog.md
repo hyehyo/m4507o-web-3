@@ -2,7 +2,9 @@
 title: blog
 ---
 
-[[matias soto]]  
+***etc***
+
+[[1 nov. 2023, matias soto]]  
 [[黒 and 白]]  
 [[video test]] 📹
 
