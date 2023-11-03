@@ -8,6 +8,7 @@ pinned
 [[video test]] 📹  
 
 **nov. 2023**  
+- [[2 nov. 2023, desierto]]
 - [[1 nov. 2023, matias soto]]  
 
 **oct. 2023**  
