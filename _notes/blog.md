@@ -2,6 +2,8 @@
 title: blog
 ---
 
+[[notas]]
+
 pinned  
 [[1 nov. 2023, matias soto]]  
 [[黒 and 白]]  
